@@ -1,0 +1,3 @@
+﻿  QuestionThree.cpp
+C:\Users\Sirbor\source\repos\ClassProjectThree\QuestionThree.cpp(145,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ClassProjectThree.vcxproj -> C:\Users\Sirbor\source\repos\ClassProjectThree\x64\Debug\ClassProjectThree.exe
